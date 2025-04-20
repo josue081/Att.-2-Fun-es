@@ -33,7 +33,7 @@ def concluir(n):
         salvar(t)
 
 # Teste simples
-adicionar("Estudar Python")
+adicionar("Estudar java")
 listar()
 concluir(1)
 listar()
