@@ -25,6 +25,6 @@ def mostrar():
     print("Total: R$", total)
 
 # Teste simples
-add("Arroz", 10, 5.5)
-add("Feijão", 5, 8.0)
+add("Óleo", 10, 5.5)
+add("peixe", 5, 8.0)
 mostrar()
